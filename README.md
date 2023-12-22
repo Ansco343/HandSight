@@ -64,15 +64,6 @@ Install the APK <p>
 <p> Open Journey Applications
 Register with your google account <p>
 
-- Screenshot
-
-# Project Architecture
-
-<a href='https://www.linkpicture.com/view.php?img=LPic648c32812751d1052550205'><img src='https://www.linkpicture.com/q/project-architecture.jpg' type='image'></a>
-
-# Backend Techstack
-<a href='https://www.linkpicture.com/view.php?img=LPic648c328b34b881357147923'><img src='https://www.linkpicture.com/q/project-architecture-1.jpg' type='image'></a>
-
 # Documentation
 You can find our relevant documentation at the following link:
 
