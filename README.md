@@ -77,7 +77,7 @@ Register with your google account <p>
 You can find our relevant documentation at the following link:
 
 ## Machine Learning 
-- [Machine Learning Documentation](-----l)
+- [Machine Learning Documentation](https://github.com/Rojer25/CH2---PS430-ML)
 
 ## Cloud Computing 
 - [Cloud Computing Documentation](https://github.com/NurulAzmi0066/HandSight-CC.git)
